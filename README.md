@@ -29,7 +29,13 @@ Agile development methodologies were used, including git branch workflow and pul
 
 ## Link
 
-- [Global Retirement Calculator](TBD)
+- [https://retirement-calculator-24.herokuapp.com/]
+
+## Contributors:
+
+ - [Phillip Hu](https://github.com/ph4044)
+ - [Julia Campbell](https://github.com/syliesox)
+ - [Jocelyn Shelton](https://github.com/j22shelton)
 
 
 #
