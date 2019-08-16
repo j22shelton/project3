@@ -42,5 +42,5 @@ Agile development methodologies were used, including git branch workflow and pul
 
 #
 
-![Project3](https://user-images.githubusercontent.com/47063288/62180526-5c461b80-b31e-11e9-9f42-31b779414e4c.png)
+![Screenshot 2019-08-15 21 13 00](https://user-images.githubusercontent.com/47063288/63136798-a75c6180-bfa1-11e9-910b-e9dcb8aa970d.png)
 
